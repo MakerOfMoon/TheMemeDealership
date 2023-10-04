@@ -1,5 +1,5 @@
 # The Meme Dealership
-![FUSEDLAYERS](https://github.com/MakerOfMoon/TheMemeDealership/assets/99389504/27b9bac1-e872-49ef-8d4e-fa821e570822)
+
 ## Welcome to your local internet meme dealership!
 ### This is the up and coming best corner of the internet, the place that's gonna become the best meme database in the whole wide world!
 ### Here you will be able to find any meme you want, as we will have thousands of memes stored here ready for you to search thru and use! And you can steal them, obviously!
