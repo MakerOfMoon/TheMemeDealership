@@ -1,4 +1,7 @@
 # The Meme Dealership
+![FUSEDLAYERS](https://github.com/MakerOfMoon/TheMemeDealership/assets/99389504/27b9bac1-e872-49ef-8d4e-fa821e570822)
+
+
 #### License: The Unilicense
 This is free and unencumbered content released into the public domain.
 
