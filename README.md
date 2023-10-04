@@ -5,7 +5,7 @@
 ### Here you will be able to find any meme you want, as we will have thousands of memes stored here ready for you to search thru and use! And you can steal them, obviously!
 ### This project is still much of a work in progress, but if you enable release notifs we will make sure to notify you when the project is done. You will be able to find the database on our Git Pages page ('cause obiously we're too broke to afford a proper hosting) but if the database becomes popular we could consider getting a proper hosting for it.
 
-#### License: The Unilicense
+#### License: The Unlicense
 This is free and unencumbered content released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
