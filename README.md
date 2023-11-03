@@ -7,6 +7,5 @@
 
 ## ---Special Thanks---
 ### --Meme Providers--
-### LoganRedRed
-### Noctune
+LoganRedRed, Noctune, PFnove, ieatsocks
 #### This database's content is licensed under Unlicense. For more information please refer to LICENSE file.
