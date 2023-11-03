@@ -7,6 +7,6 @@
 
 ## ---Special Thanks---
 ### --Meme Providers--
-###LoganRedRed
-###Noctune
+### LoganRedRed
+### Noctune
 #### This database's content is licensed under Unlicense. For more information please refer to LICENSE file.
